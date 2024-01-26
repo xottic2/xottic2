@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao Meu Perfil ! 
-## xottic2 😁
+## xottic2 🍀
 
  <div>
    <a href="https://github.com/xottic2">
